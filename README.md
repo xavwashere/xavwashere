@@ -1,13 +1,10 @@
-Hey, fellow developer!
+# Welcome to my joke of a GitHub!
 
-Welcome to my GitHub profile!
+The only place to find unfinished projects, terrible code and just-barely-functioning scripts!
+Honestly, I don't use GitHub much. Don't expect much- heck, don't expect anything.
 
-I specialise in web design, Python, and Lua. I'm also up to learning more languages!
+# I specialize in..
 
-Contact:
-
-Twitter: [@xavwastaken](https://twitter.com/xavwastaken)
-
-Discord: xavvvv#7351
-
-[![xav's GitHub stats](https://github-readme-stats.vercel.app/api?username=xavwashere&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+* Python
+* Lua
+* React.JS
