@@ -6,5 +6,5 @@ Honestly, I don't use GitHub much. Don't expect much- heck, don't expect anythin
 # I specialize in..
 
 * Python
+* C#
 * Lua
-* React.JS
